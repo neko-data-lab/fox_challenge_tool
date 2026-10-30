@@ -1,0 +1,2279 @@
+{
+  "schemaVersion": 1,
+  "questions": [
+    {
+      "id": "356a39ed05b245268348c967d200fb4c",
+      "question": "地球の大気中で最も多く含まれる気体は何ですか？",
+      "answer": "窒素",
+      "reading": "ちきゅうのたいきちゅうでもっともおおくふくまれるきたいはなんですか"
+    },
+    {
+      "id": "fbe7feafcf81457784c9db92cd0a8fc5",
+      "question": "平面上の三角形の内角の和はいくらですか？",
+      "answer": "180度",
+      "reading": "へいめんじょうのさんかくけいのないかくのわはいくらですか"
+    },
+    {
+      "id": "490bbf69958b4abc8c72311317651016",
+      "question": "日本の最高峰は何ですか？",
+      "answer": "富士山",
+      "reading": "にほんのさいこうほうはなんですか"
+    },
+    {
+      "id": "c36cb71cea784052b5faadeeccba68d0",
+      "question": "太陽の光が地球に届くまで、およそ何分かかりますか？",
+      "answer": "8分",
+      "reading": "たいようのひかりがちきゅうにとどくまでおよそなんぷんかかりますか"
+    },
+    {
+      "id": "7d4f4324ed97444290c18c700582d50f",
+      "question": "光合成が行われる細胞内の器官は何ですか？",
+      "answer": "葉緑体",
+      "reading": "こうごうせいがおこなわれるさいぼうないのきかんはなんですか"
+    },
+    {
+      "id": "1cfe04d631a24ce78e4eb3eb91201848",
+      "question": "『源氏物語』の作者は誰ですか？",
+      "answer": "紫式部",
+      "reading": "げんじものがたりのさくしゃはだれですか"
+    },
+    {
+      "id": "8f0f36c4430b4cc3beb9ca92ec4e7232",
+      "question": "フランス革命の象徴的な始まりとされる出来事は何ですか？",
+      "answer": "バスティーユ襲撃",
+      "reading": "ふらんすかくめいのしょうちょうてきなはじまりとされるできごとはなんですか"
+    },
+    {
+      "id": "a80b8a2884334ea7b5c07ddf5e298264",
+      "question": "サッカーで選手を退場させる際に審判が示すカードは何ですか？",
+      "answer": "レッドカード",
+      "reading": "さっかーでせんしゅをたいじょうさせるさいにしんぱんがしめすかーどはなんですか"
+    },
+    {
+      "id": "f51be6f0ba6f47acaab01fa279af006d",
+      "question": "ホッキョクグマの皮膚の色は何色ですか？",
+      "answer": "黒",
+      "reading": "ほっきょくぐまのひふのいろはなにいろですか"
+    },
+    {
+      "id": "44680ccb0dc64eb8a8dce0a9e23b1e20",
+      "question": "真空中で光が1秒間に進む距離はおよそ何キロメートルですか？",
+      "answer": "約30万キロメートル",
+      "reading": "しんくうちゅうでひかりがいちびょうかんにすすむきょりはおよそなんきろめーとるですか"
+    },
+    {
+      "id": "f58c3cbe07334d78b1cf975153f79142",
+      "question": "『ロミオとジュリエット』の作者は誰ですか？",
+      "answer": "ウィリアム・シェイクスピア",
+      "reading": "ろみおとじゅりえっとのさくしゃはだれですか"
+    },
+    {
+      "id": "6e9eca78f2ce4d6ebbcfb67ba20445be",
+      "question": "ダイヤモンドの主な構成元素は何ですか？",
+      "answer": "炭素",
+      "reading": "だいやもんどのおもなこうせいげんそはなんですか"
+    },
+    {
+      "id": "a03ceb1a305e4555a34362312899aa5a",
+      "question": "「アイ・アム・レジェンド」の主演は誰ですか？",
+      "answer": "ウィル・スミス",
+      "reading": ""
+    },
+    {
+      "id": "ddbb4a177f7b48d389d3a1c2677ade83",
+      "question": "アイスホッケーは各チーム何人で試合しますか？",
+      "answer": "6",
+      "reading": ""
+    },
+    {
+      "id": "53b292671bd24b79adcb29cb0a7a3485",
+      "question": "アイビー・リーグはどの国の学校の連盟ですか？",
+      "answer": "アメリカ",
+      "reading": ""
+    },
+    {
+      "id": "40db415ede744378832bd4a6fd4cbc06",
+      "question": "アインシュタインは何の理論が最も有名ですか？",
+      "answer": "相対性理論",
+      "reading": ""
+    },
+    {
+      "id": "877129cdbafa4bf5b528711553326df4",
+      "question": "赤のチェスは何色のチェスに有利ですか？",
+      "answer": "緑",
+      "reading": ""
+    },
+    {
+      "id": "9cf923a64af44c668a6befefc0dfe7e2",
+      "question": "青のチェスは何色のチェスに有利ですか？",
+      "answer": "赤",
+      "reading": ""
+    },
+    {
+      "id": "c84535868cc242b9aedf2f00ec9328e2",
+      "question": "アジアで最初にオリンピックを開催したのはどの国ですか？",
+      "answer": "日本",
+      "reading": ""
+    },
+    {
+      "id": "f22f69ff1d7345dca186d7904b16a1bd",
+      "question": "アジアと北アメリカの境界線はなんですか？",
+      "answer": "ベーリング海峡",
+      "reading": ""
+    },
+    {
+      "id": "0f8e6f54be0c4a8eb17fb76d2891b75a",
+      "question": "あなたに対する進軍を事前に察知できる建築は何ですか？",
+      "answer": "監視塔",
+      "reading": ""
+    },
+    {
+      "id": "1aff0cc23e9141a2bfcc99a4c46586de",
+      "question": "アニメ『トムとジェリー』で、猫はどっちですか？",
+      "answer": "トム",
+      "reading": ""
+    },
+    {
+      "id": "78971608ca40447880efbb3ba1eb2176",
+      "question": "アニメ『名探偵コナン』で、主人公の工藤新一は薬を飲まされた後、誰になりましたか？",
+      "answer": "江戸川コナン",
+      "reading": ""
+    },
+    {
+      "id": "554dcd658b1543c08e2d756f3594ac59",
+      "question": "アニメ『ワンピース』の主人公モンキー・D・ルフィの夢は何になることですか？",
+      "answer": "ONE PIECE",
+      "reading": ""
+    },
+    {
+      "id": "b4f040ea20b9412bb928e0eb851c0cdd",
+      "question": "『アバター』の映画に登場する惑星の名前は何ですか？",
+      "answer": "パンドラ",
+      "reading": ""
+    },
+    {
+      "id": "6e54b119bddc425ba73d813b8f730ff8",
+      "question": "アメリカの公民権運動で知られるマーティン・ルーサー・キング・ジュニアは、どのスピーチで知られていますか？",
+      "answer": "『I Have a Dream』",
+      "reading": ""
+    },
+    {
+      "id": "51151e92f15b4ad0b020f2a5b33bce47",
+      "question": "アメリカの女性が選挙権を獲得したのは、どの憲法修正条項によってですか？",
+      "answer": "第19条修正条項",
+      "reading": ""
+    },
+    {
+      "id": "ff23b90087634c2587ea16165e72d2b8",
+      "question": "アメリカの『独立宣言』の主な起草者は誰ですか？",
+      "answer": "トーマス・ジェファーソン",
+      "reading": ""
+    },
+    {
+      "id": "1ca1977d7cda42c8abb6de9a8de718f8",
+      "question": "アメリカのどの州が1959年に50番目の州になりましたか？",
+      "answer": "ハワイ",
+      "reading": ""
+    },
+    {
+      "id": "fbe16d7ac83b4434a59cbe54d8beb9de",
+      "question": "アメリカのテレビドラマ『ゲーム・オブ・スローンズ』は、どの小説を原作としていますか？",
+      "answer": "『氷と炎の歌』",
+      "reading": ""
+    },
+    {
+      "id": "45e9f210d7444a9593573897c3d3b8da",
+      "question": "アルタイルが所属する星座は何ですか？",
+      "answer": "わし座",
+      "reading": ""
+    },
+    {
+      "id": "224457e6ee10468f95b4882f1fe12c16",
+      "question": "アレクサンダー・グラハム・ベルが特許を取得した発明は何ですか？",
+      "answer": "電話",
+      "reading": ""
+    },
+    {
+      "id": "0b6087d3078b435580c5387737191051",
+      "question": "イエール大学がどの国にありますか？",
+      "answer": "アメリカ",
+      "reading": ""
+    },
+    {
+      "id": "35a4b03a315f47f6ba7e36511935cdd1",
+      "question": "胃酸の成分は何ですか？",
+      "answer": "塩酸",
+      "reading": ""
+    },
+    {
+      "id": "8051da83bc804c148583b26e5d974041",
+      "question": "一番最初のバレーボールはどのボールの進化ですか？",
+      "answer": "バスケットボール",
+      "reading": ""
+    },
+    {
+      "id": "7fa424d04ecb47aa933bd885dba12bfa",
+      "question": "一番背が高い哺乳動物は？",
+      "answer": "キリン",
+      "reading": ""
+    },
+    {
+      "id": "d8465e9dfa13441b907e656cedba8a78",
+      "question": "印象派運動を代表する画家は誰ですか？",
+      "answer": "モネ",
+      "reading": ""
+    },
+    {
+      "id": "41f633c2dc8c44b39ddd18c9933bde3c",
+      "question": "インドの首都はどこですか？",
+      "answer": "ニューデリー",
+      "reading": ""
+    },
+    {
+      "id": "d6b533035ab044e9b0b706a1cf5ab4dc",
+      "question": "インドの非暴力不服従運動を率いたリーダーは誰ですか？",
+      "answer": "ガンジー",
+      "reading": ""
+    },
+    {
+      "id": "ea13c57d19b044859ebb0f594c0a0ad9",
+      "question": "ヴァンパイアが恐れているものはなんですか？",
+      "answer": "にんにく",
+      "reading": ""
+    },
+    {
+      "id": "9d39c6281c04433a954ed717a67cbe4c",
+      "question": "「ウォーキング・デッド」でダリル・ディクソンを演じた俳優は誰ですか？",
+      "answer": "ノーマン・リーダス",
+      "reading": ""
+    },
+    {
+      "id": "dbbdec54352f471eab4b8d0e538ae872",
+      "question": "「ウォーキング・デッド」はいつから放送されていますか？",
+      "answer": "2010年",
+      "reading": ""
+    },
+    {
+      "id": "d619c8b2165f48ba94b0f720083f12f7",
+      "question": "「ウォーキング・デッド」はどの国を舞台にしていますか？",
+      "answer": "アメリカ",
+      "reading": ""
+    },
+    {
+      "id": "cacb6b1d7f0e45a3a9ee17708c66c768",
+      "question": "エアコンを発明した人はどの国の人ですか？",
+      "answer": "アメリカ",
+      "reading": ""
+    },
+    {
+      "id": "f0d0366d47d04e6f839492f4247e3230",
+      "question": "映画『ゴッドファーザー』で、マーロン・ブランドが演じた初代ドンの名前は何ですか？",
+      "answer": "ヴィト・コルレオーネ",
+      "reading": ""
+    },
+    {
+      "id": "43867496022d4703974b761c949c6476",
+      "question": "映画『タイタニック』の監督は誰ですか？",
+      "answer": "ジェームズ・キャメロン",
+      "reading": ""
+    },
+    {
+      "id": "54cf67bef8a34566ad2c2911ed78ab02",
+      "question": "映画『トゥルーマン・ショー』で、トゥルーマンの生活は実際には何だったでしょうか？",
+      "answer": "テレビ番組",
+      "reading": ""
+    },
+    {
+      "id": "7eed7d331f524ca98f8bbebe31e30bad",
+      "question": "映画『レオン』で、主人公レオンの職業は何ですか？",
+      "answer": "殺し屋",
+      "reading": ""
+    },
+    {
+      "id": "088b361a1e1f4a53a9a0c33e4c86278f",
+      "question": "鉛筆の主成分は何ですか？",
+      "answer": "炭素",
+      "reading": ""
+    },
+    {
+      "id": "236741744210485cbf77a5fd48915a2a",
+      "question": "オーストラリアの象徴として知られる動物は何ですか？",
+      "answer": "カンガルー",
+      "reading": ""
+    },
+    {
+      "id": "fb179c188a88458cafa68275c9bf359f",
+      "question": "オゾン層の主成分となるガスはなんですか？",
+      "answer": "オゾン",
+      "reading": ""
+    },
+    {
+      "id": "9c20aa6ca518428687e8242e58913fbd",
+      "question": "音はどの媒質で最も速くつたわりますか？",
+      "answer": "鉄鋼",
+      "reading": ""
+    },
+    {
+      "id": "d77af8963cff491a85673078fdefd68e",
+      "question": "オペラはどこの国で生まれましたか？",
+      "answer": "イタリア",
+      "reading": ""
+    },
+    {
+      "id": "7fb3666cfdd744dd9ea69ee61bc442e9",
+      "question": "オペラ『カルメン』を作曲したのは誰ですか？",
+      "answer": "ビゼー",
+      "reading": ""
+    },
+    {
+      "id": "4658807f300a4bcf97902d5c593ce0ed",
+      "question": "親二人に娘が3人おり、どの娘も一人の弟がいます。この家には何人がいますか？",
+      "answer": "6人",
+      "reading": ""
+    },
+    {
+      "id": "6483a03bab0843d2bc75768dd6b2fd1b",
+      "question": "オリンピックの起源はどこですか？",
+      "answer": "古代ギリシャ",
+      "reading": ""
+    },
+    {
+      "id": "308148e9c3da4c3991ad1a08886dee66",
+      "question": "ガイウス・ユリウス・カエサルは古代のどの国の人物ですか？",
+      "answer": "古代ローマ",
+      "reading": ""
+    },
+    {
+      "id": "f834a631a9fa43c6bd6ae92c2810e13e",
+      "question": "壊血病はどのビタミンが不足することで出現しますか？",
+      "answer": "ビタミンC",
+      "reading": ""
+    },
+    {
+      "id": "fff89e37921c479ebae2a2cc9485a2c4",
+      "question": "蚊が血を吸うのは何のためですか？",
+      "answer": "卵をうむため",
+      "reading": ""
+    },
+    {
+      "id": "c9ef2befac2849b4816585912da390ae",
+      "question": "韓国で一番大きい都市はどこですか？",
+      "answer": "ソウル",
+      "reading": ""
+    },
+    {
+      "id": "3e28a949bfe3484eb695a46120411a6b",
+      "question": "韓国の人気歌手PSYが世界中で大ヒットした曲は何ですか？",
+      "answer": "Gangnam Style",
+      "reading": ""
+    },
+    {
+      "id": "9ec5369eb7994d61a5a8c0557141e6d9",
+      "question": "肝臓が持ってない機能はどれですか？",
+      "answer": "消化",
+      "reading": ""
+    },
+    {
+      "id": "71eb671ad4c646af87833589ca5ab041",
+      "question": "戯曲『ロミオとジュリエット』の作者は誰だ？",
+      "answer": "ウィリアム・シェイクスピア",
+      "reading": ""
+    },
+    {
+      "id": "e0ac33d3da754d9f99700f5da3b4fa6e",
+      "question": "戯曲『人形の家』の作者は誰ですか？",
+      "answer": "イプセン",
+      "reading": ""
+    },
+    {
+      "id": "9729a1c3154c48959795b7b47937ef37",
+      "question": "キューブを最初に発明したのはどの国の人ですか？",
+      "answer": "ハンガリー",
+      "reading": ""
+    },
+    {
+      "id": "d4c745a040234280921895976a20a862",
+      "question": "恐竜はどの類に所属しますか？",
+      "answer": "爬虫類",
+      "reading": ""
+    },
+    {
+      "id": "83bc362c71004519870cb0cb7f96cbaf",
+      "question": "魚類に属する動物はどっちですか？",
+      "answer": "タツノオトシゴ",
+      "reading": ""
+    },
+    {
+      "id": "ed4bf76083ae42b785b60a6953b04da5",
+      "question": "ギルドには階級がいくつありますか？",
+      "answer": "5個",
+      "reading": ""
+    },
+    {
+      "id": "ea75a38f170f41758b17231ee5631a2e",
+      "question": "ギルドには官職がいくつありますか？",
+      "answer": "4",
+      "reading": ""
+    },
+    {
+      "id": "ca6cc64019064a03be364af825a4619e",
+      "question": "ギルドの創設にはコントロールセンターレベルがいくつ必要ですか？",
+      "answer": "Lv.6",
+      "reading": ""
+    },
+    {
+      "id": "65b10975b5e64fcd81d1c313758f4152",
+      "question": "銀行機能でないのはどれですか？",
+      "answer": "資源輸送",
+      "reading": ""
+    },
+    {
+      "id": "4dfe0796c7f24c4a9a7f6ecb7e2fedec",
+      "question": "空気に最も含まれている2つの気体はなんですか？",
+      "answer": "窒素と酸素",
+      "reading": ""
+    },
+    {
+      "id": "feffefabbf43440fa7a7c563368f424e",
+      "question": "『くるみ割り人形』の作曲家は誰ですか？",
+      "answer": "チャイコフスキー",
+      "reading": ""
+    },
+    {
+      "id": "ebb8ec09e066489a92d025f3fb447449",
+      "question": "コーヒーの発祥地はどこですか？",
+      "answer": "アフリカ",
+      "reading": ""
+    },
+    {
+      "id": "be29b9fdbba7426ba64de85016823ac2",
+      "question": "光合成はどこで行いますか？",
+      "answer": "葉緑体",
+      "reading": ""
+    },
+    {
+      "id": "4d17695c3beb43cf9ee9614beee5ce10",
+      "question": "ゴルフコースにはいくつのホールがありますか？",
+      "answer": "18個",
+      "reading": ""
+    },
+    {
+      "id": "5cefb2c2f3bf48d8b0d1107601b8c273",
+      "question": "コンピュータが発明された年はいつですか？",
+      "answer": "1946年",
+      "reading": ""
+    },
+    {
+      "id": "ce8db69b5ef548dea3c0b1f9aec133ae",
+      "question": "魚はどこで呼吸していますか？",
+      "answer": "えら",
+      "reading": ""
+    },
+    {
+      "id": "11089f0285034238a36ecd5ec04996bc",
+      "question": "サッカーで審判が選手を退場させる時、どのカードを使用しますか？",
+      "answer": "レッドカード",
+      "reading": ""
+    },
+    {
+      "id": "419d52a8bade4b98b883aea79770bf48",
+      "question": "サッカーの起源はどの国ですか？",
+      "answer": "イギリス",
+      "reading": ""
+    },
+    {
+      "id": "2ee1d547401b4c54adf875c1d0d2bd3e",
+      "question": "サバイバルバトルは毎日無料で何回挑戦できますか？",
+      "answer": "3回",
+      "reading": ""
+    },
+    {
+      "id": "031dd6ac7ea142f5ad793b7bcede4bf4",
+      "question": "磁気嵐の周期は？",
+      "answer": "11年",
+      "reading": ""
+    },
+    {
+      "id": "f3bf9349c1a144d7902b837a9e1def16",
+      "question": "地震の強さを測る単位は何ですか？",
+      "answer": "リヒタースケール",
+      "reading": ""
+    },
+    {
+      "id": "7e2a46584c1c45989fcb874a27b76739",
+      "question": "自動的なスタミナ回復の上限はいくらですか？",
+      "answer": "120",
+      "reading": ""
+    },
+    {
+      "id": "fae9a4d2a82c494da7dc1b1bcf1aa9b7",
+      "question": "シャープはどの国のブランドですか？",
+      "answer": "日本",
+      "reading": ""
+    },
+    {
+      "id": "060132ddac8348b3be38f2cf0f19e6bd",
+      "question": "シャンパンの主な原材料はどの果物ですか？",
+      "answer": "ブドウ",
+      "reading": ""
+    },
+    {
+      "id": "fbef9173a7ba44bfba04c17c5326ab9e",
+      "question": "周期律を発表した人は誰ですか？",
+      "answer": "ドミトリ・メンデレーエフ",
+      "reading": ""
+    },
+    {
+      "id": "99e05d57a272407190fcfcc8cac389f3",
+      "question": "自由の女神をプレゼントとしてアメリカに送った国はどっちですか？",
+      "answer": "フランス",
+      "reading": ""
+    },
+    {
+      "id": "e30e0859d90343409c1156bdc7f5cdc1",
+      "question": "常温環境下で電気伝導率が最も強い金属は何ですか？",
+      "answer": "銀",
+      "reading": ""
+    },
+    {
+      "id": "cd6fdf87bbfc482db3b937cca9879758",
+      "question": "小説『1984年』の作者は誰ですか？",
+      "answer": "ジョージ・オーウェル",
+      "reading": ""
+    },
+    {
+      "id": "86916a94528e4513a31f533cb7f4fe51",
+      "question": "小説『風と共に去りぬ』の作者は誰ですか？",
+      "answer": "マーガレット・ミッチェル",
+      "reading": ""
+    },
+    {
+      "id": "1ef9112f26d44ec0ae692e3aaa79c299",
+      "question": "小説『戦争と平和』の作者は誰ですか？",
+      "answer": "トルストイ",
+      "reading": ""
+    },
+    {
+      "id": "00bc919150ce489ebd4b96858a4ebf02",
+      "question": "小説『老人と海』の作者は誰ですか？",
+      "answer": "ヘミングウェイ",
+      "reading": ""
+    },
+    {
+      "id": "6fc4ed7215ce45438c240cecf1ba5e72",
+      "question": "植物はどの部分で水分を吸収しますか？",
+      "answer": "根",
+      "reading": ""
+    },
+    {
+      "id": "c9e47bfbc69e48d9b5366546d0a06aa1",
+      "question": "白雪姫、アリス、プーさんはどの映画会社のアニメキャラですか？",
+      "answer": "ディズニー",
+      "reading": ""
+    },
+    {
+      "id": "578fa87c86484bdf88c0db3f5edcac87",
+      "question": "真空中の光の伝播速度はおよそどのくらいでしょうか？",
+      "answer": "毎秒約30万キロメートル",
+      "reading": ""
+    },
+    {
+      "id": "9fe65789cf5941279be25f66c7de171a",
+      "question": "人口が最も少ない国は？",
+      "answer": "バチカン市国",
+      "reading": ""
+    },
+    {
+      "id": "fcaf2553b13c4981b4a8d7b36c271b4e",
+      "question": "第1回のオリンピックはいつ開催されましたか？",
+      "answer": "1896年",
+      "reading": ""
+    },
+    {
+      "id": "0be3e16179d14c3890b1609806141715",
+      "question": "タイタニックはどの大洋に沈没しましたか？",
+      "answer": "大西洋",
+      "reading": ""
+    },
+    {
+      "id": "e0084fdb18764de095133ba9202214da",
+      "question": "太平洋とインド洋をつなぐ重要な海峡は何ですか？",
+      "answer": "マラッカ海峡",
+      "reading": ""
+    },
+    {
+      "id": "5bc6e6d649a94f0797ff5be694ad5d39",
+      "question": "ダイヤモンドの主成分は何ですか？",
+      "answer": "炭素",
+      "reading": ""
+    },
+    {
+      "id": "bc0c01a2ceaa44bcb779bcc6ddc61b3d",
+      "question": "太陽の光は地球に届くのにどれくらいの時間がかかりますか？",
+      "answer": "約8分",
+      "reading": ""
+    },
+    {
+      "id": "ad81b920c0424dada265709f81e242c0",
+      "question": "太陽のピラミッドはどこにありますか？",
+      "answer": "メキシコ",
+      "reading": ""
+    },
+    {
+      "id": "97bfc7c345794c96b792b008d69ac72d",
+      "question": "立ちながら寝る動物はどれですか？",
+      "answer": "馬",
+      "reading": ""
+    },
+    {
+      "id": "b5eba81ec7b943beb7306558a29055f7",
+      "question": "卵から孵化しない動物は何ですか？",
+      "answer": "カンガルー",
+      "reading": ""
+    },
+    {
+      "id": "8966a4dae52f4be6952d60695f2ff2fc",
+      "question": "タンクはどの国が発明しましたか？",
+      "answer": "イギリス",
+      "reading": ""
+    },
+    {
+      "id": "1c21cd2bb3514ef6a7e079e1ce347f12",
+      "question": "南米最大の国は？",
+      "answer": "ブラジル",
+      "reading": ""
+    },
+    {
+      "id": "d1195669cfb743b086d667b3332485a9",
+      "question": "虹の最も外側の色は何ですか？",
+      "answer": "赤",
+      "reading": ""
+    },
+    {
+      "id": "2d5306cd686b4c5fac84dcff3a3d192e",
+      "question": "日本の古典文学の名作『源氏物語』の作者は誰ですか？",
+      "answer": "紫式部",
+      "reading": ""
+    },
+    {
+      "id": "46ac32eb841f4ab2973c0d37afa072e0",
+      "question": "日本の最高峰で、有名な火山でもあるのは何ですか？",
+      "answer": "富士山",
+      "reading": ""
+    },
+    {
+      "id": "caa34af395784dcc84d60f8e3f9d984f",
+      "question": "日本の明治維新は何年に始まりましたか？",
+      "answer": "1868年",
+      "reading": ""
+    },
+    {
+      "id": "5633fb20dcef4e8aa32b3254ddcbdbc3",
+      "question": "人気ゲーム『プラントvs.ゾンビ』で、太陽光を生産できる植物は何ですか？",
+      "answer": "ひまわり",
+      "reading": ""
+    },
+    {
+      "id": "eb526f6e41734e099fad415577f7f93b",
+      "question": "ノーベル賞にない賞はどれですか？",
+      "answer": "フィールズ賞",
+      "reading": ""
+    },
+    {
+      "id": "9e377edf8e574dd09fb055a05c865cfa",
+      "question": "「バイオハザード2」のストーリーはどこが舞台ですか？",
+      "answer": "ラクーンシティ",
+      "reading": ""
+    },
+    {
+      "id": "2cef0b90e4cd4387b077a7b5fe2ec130",
+      "question": "白色物体と黒色物体、より強く光を反射するのはどれ？",
+      "answer": "白",
+      "reading": ""
+    },
+    {
+      "id": "13fea95503a04ea3a7d2bb85952c4257",
+      "question": "『白鳥の湖』を作曲したロシアの作曲家は誰ですか？",
+      "answer": "チャイコフスキー",
+      "reading": ""
+    },
+    {
+      "id": "e35ebaad04eb411d9417fab53ce0009b",
+      "question": "バスケットボール選手のジョーダンは最初の引退後、どの球技の選手に転向しましたか？",
+      "answer": "野球",
+      "reading": ""
+    },
+    {
+      "id": "7c4f08d1317d4dd18f732359fffd095b",
+      "question": "バスケットボールの試合では何回のファウルで退場となりますか？",
+      "answer": "5回",
+      "reading": ""
+    },
+    {
+      "id": "60fd1df5ad8e4b5eacfe50a7a2a331b9",
+      "question": "バスケットボールの発祥地はどの国ですか？",
+      "answer": "アメリカ",
+      "reading": ""
+    },
+    {
+      "id": "ee65c98bd167414bb02cee4dd24325fb",
+      "question": "蜂の巣は沢山の穴で構成されていますが、それはどんな形をしていますか？",
+      "answer": "六角形",
+      "reading": ""
+    },
+    {
+      "id": "398983d1bff547b795a8b5afa069fe94",
+      "question": "ハノイはどの国の首都ですか？",
+      "answer": "ベトナム",
+      "reading": ""
+    },
+    {
+      "id": "6d0ed97e93d24b18837ed818bd6a0ea6",
+      "question": "歯磨き粉に含まれているフッ素の効果は何ですか？",
+      "answer": "虫歯予防",
+      "reading": ""
+    },
+    {
+      "id": "495eed6d6fed4fbfb8055af0730070d6",
+      "question": "ファイターは何の兵種に有利ですか？",
+      "answer": "シューター",
+      "reading": ""
+    },
+    {
+      "id": "8bc2e9a26bcc4ea2b48b197eaa4d607f",
+      "question": "『ファイト・クラブ』の第一のルールは何ですか？",
+      "answer": "ファイトクラブについて語ってはいけない",
+      "reading": ""
+    },
+    {
+      "id": "cee10367f9b5457798c1de17f2eaf459",
+      "question": "ブエノスアイレスはどの国の首都ですか？",
+      "answer": "アルゼンチン",
+      "reading": ""
+    },
+    {
+      "id": "269b5fcf33c646d0812dc7234b2d030e",
+      "question": "フォルクスワーゲンのロゴはどのアルファベットで表されますか？",
+      "answer": "VW",
+      "reading": ""
+    },
+    {
+      "id": "7c584e3c86db4d72bd480365c3b56e5c",
+      "question": "名画『モナ・リザ』の作者は誰ですか？",
+      "answer": "レオナルド・ダ・ヴィンチ",
+      "reading": ""
+    },
+    {
+      "id": "626951b1fbbf42d3a74e3f982e9beb4e",
+      "question": "メルセデス・ベンツの原産国はどの国ですか？",
+      "answer": "ドイツ",
+      "reading": ""
+    },
+    {
+      "id": "cdf6e9d6219c4bfbbaaaaab7301fb3b2",
+      "question": "最もエコなエネルギーは何ですか？",
+      "answer": "太陽エネルギー",
+      "reading": ""
+    },
+    {
+      "id": "8831ad237d2048398293b93411cbacc0",
+      "question": "モンゴル帝国の創設者は誰ですか？",
+      "answer": "チンギス・ハン",
+      "reading": ""
+    },
+    {
+      "id": "d02f57c76a184d18a72aac273425cfd6",
+      "question": "ユーバー杯とトマス杯はどの競技の大会ですか？",
+      "answer": "バドミントン",
+      "reading": ""
+    },
+    {
+      "id": "0cee2d96eb1849b2a32abe8871ae4edd",
+      "question": "ヨーロッパ三十年戦争終結後に締結された条約は何ですか？",
+      "answer": "ウェストファリア条約",
+      "reading": ""
+    },
+    {
+      "id": "97aafe80f1a74bb1bf78dd2c49071350",
+      "question": "ヨーロッパで最も長い川は何ですか？",
+      "answer": "ヴォルガ川",
+      "reading": ""
+    },
+    {
+      "id": "43c8895f4096415db84a8e65c673f9a1",
+      "question": "ヨーロッパの都市で「霧の都」と呼ばれるのはどこですか？",
+      "answer": "ロンドン",
+      "reading": ""
+    },
+    {
+      "id": "c7b3f8c8630b408c9bbff381040b9e42",
+      "question": "四大洋の中で面積が一番小さい海洋はどれですか？",
+      "answer": "北極海",
+      "reading": ""
+    },
+    {
+      "id": "67f48da9a2844877835e3258af4366c0",
+      "question": "ライダーは何の兵種に有利ですか？",
+      "answer": "ファイター",
+      "reading": ""
+    },
+    {
+      "id": "4b2cfdd6693c4c0db8a6e548abb6df10",
+      "question": "『ライ麦畑でつかまえて』を書いたアメリカの作家は誰ですか？",
+      "answer": "J・D・サリンジャー",
+      "reading": ""
+    },
+    {
+      "id": "3c63b2457aef46a29877377ec2824c1a",
+      "question": "リンゴを木から落とす力は何ですか？",
+      "answer": "重力",
+      "reading": ""
+    },
+    {
+      "id": "09f874a8eabc41cc840b8bb1800616fe",
+      "question": "ロシアの首都はどこですか？",
+      "answer": "モスクワ",
+      "reading": ""
+    },
+    {
+      "id": "0ff5cdbf33c14cdf97058be34a32c5c7",
+      "question": "ローダンのスキルは敵にどんな効果がありますか？",
+      "answer": "DEF減少",
+      "reading": ""
+    },
+    {
+      "id": "e0371cdda6d84f9e98c06729967664d2",
+      "question": "ローマ神話でウェヌスが司るのは何ですか？",
+      "answer": "愛と美",
+      "reading": ""
+    },
+    {
+      "id": "eb8be61695b742378e8bbb557cf2c5a0",
+      "question": "ローマ帝国を東西に分割したローマ皇帝は誰ですか？",
+      "answer": "ディオクレティアヌス",
+      "reading": ""
+    },
+    {
+      "id": "d83f5303015e4a0f9c1860001775b6b1",
+      "question": "ロミオとジュリエットはどの国の人ですか？",
+      "answer": "イタリア",
+      "reading": ""
+    },
+    {
+      "id": "826122077b14458c82401c5ffec32745",
+      "question": "ワールドカップ第1回大会の開催地はどの国ですか？",
+      "answer": "ウルグアイ",
+      "reading": ""
+    },
+    {
+      "id": "6490b13d717f4dbaa17ad624569e4433",
+      "question": "ワールドカップ第1回大会の開催年はいつですか？",
+      "answer": "1930年",
+      "reading": ""
+    },
+    {
+      "id": "81e335b5822d45c886218f616d024bd2",
+      "question": "アドレナリンを分泌、または注射後、生存者はどうなりますか？",
+      "answer": "速くなる",
+      "reading": ""
+    },
+    {
+      "id": "b239038d04f04b3aaf2d2aa719772161",
+      "question": "以前、クロックはネナシカズラ特殊作戦正体でどんな職位を担当しましたか？",
+      "answer": "ガイドを担当した",
+      "reading": ""
+    },
+    {
+      "id": "85b0021c78e1421eae0731a90aa9f35c",
+      "question": "「ウォーキング・デッド」ゲームの主人公の名前は何ですか？",
+      "answer": "Clementine",
+      "reading": ""
+    },
+    {
+      "id": "6e98948fe1594582903440934c3b78b0",
+      "question": "宇宙から地球を見た時、青色なのはなぜですか？",
+      "answer": "散射作用",
+      "reading": ""
+    },
+    {
+      "id": "32606846298d45d69f6d1279601e674b",
+      "question": "映画『ゾンビランド』で、主人公たちが生き残るためにまとめたのは何ですか？",
+      "answer": "生存の法則",
+      "reading": ""
+    },
+    {
+      "id": "dc4967b4a2bd4c309227d2283169f0e6",
+      "question": "映画『ブック・オブ・イーライ』で、主人公が守っているのはどんな大切なものですか？",
+      "answer": "『聖書』一冊",
+      "reading": ""
+    },
+    {
+      "id": "c1737b98321743fbbb5e5cb8f0e3b6df",
+      "question": "映画『ワールド・ウォーZ』で、ゾンビにはどのような恐ろしい特徴がありましたか？",
+      "answer": "走ったり人間ピラミッドを作ったりできる",
+      "reading": ""
+    },
+    {
+      "id": "83e7bdb2cf54496ab2010f20a0af3f82",
+      "question": "英雄ストーリーを読むと獲得できるのはどれですか？",
+      "answer": "ダイヤボーナス",
+      "reading": ""
+    },
+    {
+      "id": "a47b712373094d79828e0a478e364d2c",
+      "question": "英雄をリセットすると獲得できるのはどれですか？",
+      "answer": "あらゆる材料を獲得する",
+      "reading": ""
+    },
+    {
+      "id": "602190f8596a4341892386804a3287de",
+      "question": "エルウィンが好きなことはなんですか？",
+      "answer": "たばこを吸うこと",
+      "reading": ""
+    },
+    {
+      "id": "e2c4a8b1f0b44bb9b42eb2194e5f5a4b",
+      "question": "エルウィンのウェポンはなんですか？",
+      "answer": "三方L型パイプバルブ",
+      "reading": ""
+    },
+    {
+      "id": "d485a9d90b9d4deca6178ee5eb48e954",
+      "question": "エルウィンの前の職業はなんですか？",
+      "answer": "配管工",
+      "reading": ""
+    },
+    {
+      "id": "b770069f8a734438ad8f01bcea31aeb0",
+      "question": "エルウィンはどんな性格ですか？",
+      "answer": "怒りっぽい",
+      "reading": ""
+    },
+    {
+      "id": "b189dbe3ed744983a2ee7cb99c151b7c",
+      "question": "エレインが秘密の恋人を失った戦いの名前は何ですか？",
+      "answer": "ゴルト高原の人質救助任務",
+      "reading": ""
+    },
+    {
+      "id": "6dc28a2b6fb249c7b93b5d0c76dfc117",
+      "question": "エレインと秘密裏に恋した人はだれですか？",
+      "answer": "カヴィル",
+      "reading": ""
+    },
+    {
+      "id": "25483a12fbb44308b3fcaaff42fe4af7",
+      "question": "エレインの得意技はなんですか？",
+      "answer": "敵の目を欺くカモフラージュ術",
+      "reading": ""
+    },
+    {
+      "id": "daee82c91e994a688597a523a69b4d5b",
+      "question": "エレインはどうやって心の傷を癒しましたか？",
+      "answer": "ゾンビ撃破で自分の心を癒した",
+      "reading": ""
+    },
+    {
+      "id": "eda0c30f08a04d2fa5485ff68ad8c58f",
+      "question": "欧州連合理事会の旗にある12個の星は何色ですか？",
+      "answer": "黄色",
+      "reading": ""
+    },
+    {
+      "id": "5de72d99af3f4090ad4595d1a5885c32",
+      "question": "オーストンが所属する国際平和組織「ハト」の下部組織である特殊調査部の名前はどれですか？",
+      "answer": "フクロウ（Bubo）",
+      "reading": ""
+    },
+    {
+      "id": "21570330e4184df68c50045396a19e2c",
+      "question": "お知らせで確認できない情報はどれですか？",
+      "answer": "プレイヤー情報",
+      "reading": ""
+    },
+    {
+      "id": "7ccfe5f956914c15984af258a53e646d",
+      "question": "お問い合わせに連絡する方法は何ですか？",
+      "answer": "設定・ヘルプ・お問い合わせ",
+      "reading": ""
+    },
+    {
+      "id": "bedf17bff1ca48408b6279a1706963a1",
+      "question": "重いものが落下する時のスピードはどのように変化しますか？",
+      "answer": "地面に落ちるまで加速し続ける",
+      "reading": ""
+    },
+    {
+      "id": "15ea474e7e90493fa3da56e90d39d649",
+      "question": "かつてのクロックの理想はなんですか？",
+      "answer": "娘の支えになること",
+      "reading": ""
+    },
+    {
+      "id": "79810137987440719f6fadcde2805266",
+      "question": "『華麗なるギャッビー』を書いたアメリカの作家は誰ですか？",
+      "answer": "フィッツジェラルド",
+      "reading": ""
+    },
+    {
+      "id": "d0b5f857d201456b9ee4ffba667987b2",
+      "question": "韓国映画『新感染 ファイナル・エクスプレス』の物語は主にどんな乗り物の中で展開しますか？",
+      "answer": "高速鉄道",
+      "reading": ""
+    },
+    {
+      "id": "7f540d27e79c476b913bcf457f926269",
+      "question": "監視塔の効果でないのはどれですか？",
+      "answer": "部隊HP増加",
+      "reading": ""
+    },
+    {
+      "id": "14eb0f1a96634f3ba908d83e44b5f043",
+      "question": "カンヌ国際映画祭が開催される年はどの国の都市ですか？",
+      "answer": "フランス",
+      "reading": ""
+    },
+    {
+      "id": "6e94dd32ccbd4a589f054679d36a22e8",
+      "question": "ギャザー部隊の人数上限はいくらですか？",
+      "answer": "6人",
+      "reading": ""
+    },
+    {
+      "id": "d07982056b674092b07262e3f2a79241",
+      "question": "ギルド対決に関する正しい選択肢はどれですか？",
+      "answer": "任務を破壊しても回数を返さない",
+      "reading": ""
+    },
+    {
+      "id": "e4a6e5c90c1d4cef8186e6a468fd1f5b",
+      "question": "ギルド病院には容量上限がありますか？",
+      "answer": "個人に対する上限がある",
+      "reading": ""
+    },
+    {
+      "id": "00abe3542d494f728eef1ec5636c7ce2",
+      "question": "クリスマスソングの「クリスマスイヴ」の生まれた場所は？",
+      "answer": "オーストリア",
+      "reading": ""
+    },
+    {
+      "id": "687b17c5d63a4a59a13682ee07b62d45",
+      "question": "グリントンの警察官は誰ですか？",
+      "answer": "マリオス",
+      "reading": ""
+    },
+    {
+      "id": "fdc060de4b46454d9e12aaea4dad4ee6",
+      "question": "クロックとエレインはどんな関係ですか？",
+      "answer": "同じチームに所属する仲間",
+      "reading": ""
+    },
+    {
+      "id": "92d9a8ebfbc843bc9b12244bc1c6bb2d",
+      "question": "クロックはどうやってリベンジしましたか？",
+      "answer": "イライアの助けで、リベンジした",
+      "reading": ""
+    },
+    {
+      "id": "a4c9489a88cd4369a436c3859721e859",
+      "question": "クロックはどうやってマーシャルを危機から救出しましたか？",
+      "answer": "ヘリコプターに乗って逃げた",
+      "reading": ""
+    },
+    {
+      "id": "673865c4ac774901a8bc8e0aa6fb9f5d",
+      "question": "クロックはどんな災害のせいで娘を失いましたか？",
+      "answer": "交通事故",
+      "reading": ""
+    },
+    {
+      "id": "60606ab554ee45d89d66c0d2c2eaf84b",
+      "question": "『クローバーフィールド』シリーズの映画で、主な災害は何ですか？",
+      "answer": "巨大モンスターが都市を襲撃",
+      "reading": ""
+    },
+    {
+      "id": "d742f476a927485f8a05cac413ac6827",
+      "question": "軍事概要を確認できる建築はどれですか？",
+      "answer": "パレード",
+      "reading": ""
+    },
+    {
+      "id": "280687c8b2bf46ff8cc8bba4a6d57fbc",
+      "question": "ゲーム『デス・ストランディング』で、世界の終末後の主な脅威は何ですか？",
+      "answer": "「BT」と呼ばれる不可視の生物",
+      "reading": ""
+    },
+    {
+      "id": "c4493d76a57c42149c84b0e56a46ee75",
+      "question": "ゲームで差別発言を見つけた場合はどうすればいいですか？",
+      "answer": "お問い合わせに通報",
+      "reading": ""
+    },
+    {
+      "id": "6a42952527bb4c5fb6537a7e0eb70b18",
+      "question": "ゲームでチップを何個着装できますか？",
+      "answer": "24個",
+      "reading": ""
+    },
+    {
+      "id": "d4899ed83969417d982df61e68e1701a",
+      "question": "ゲーム内、アースで交換可能な資源は何ですか？",
+      "answer": "モジュール",
+      "reading": ""
+    },
+    {
+      "id": "2fbcb58063594e3cb32aed483033c3aa",
+      "question": "ゲーム内銀行の1日の預金金利はいくらですか？",
+      "answer": "7%",
+      "reading": ""
+    },
+    {
+      "id": "eb563abf003144938b7764e3aaac547f",
+      "question": "ゲーム内銀行の7日の預金金利はいくらですか？",
+      "answer": "7%",
+      "reading": ""
+    },
+    {
+      "id": "44d5d7d34a3b4df58e3a41db21d373aa",
+      "question": "ゲーム内銀行の14日の預金金利はいくらですか？",
+      "answer": "20%",
+      "reading": ""
+    },
+    {
+      "id": "0723b199262d4f4fb2aa0fb01b93e32d",
+      "question": "ゲーム内銀行の30日の預金金利はいくらですか？",
+      "answer": "50%",
+      "reading": ""
+    },
+    {
+      "id": "532129aaaf4d4f4eb2d2a9cc70c4c2bb",
+      "question": "ゲーム内のトムの専属ウェポンは何ですか？",
+      "answer": "恐怖の鉄槌",
+      "reading": ""
+    },
+    {
+      "id": "400509182b6342f7af196bf6ada16a86",
+      "question": "ゲーム内のプサンで出会った英雄は誰ですか？",
+      "answer": "ジュリア",
+      "reading": ""
+    },
+    {
+      "id": "a4c51239ca91426abe669573326e6e54",
+      "question": "ゲーム内、ワリオは何色の英雄ですか？",
+      "answer": "緑",
+      "reading": ""
+    },
+    {
+      "id": "9e82dc69f6cf4059be87d5f207713656",
+      "question": "現在「ウォーキング・デッド」はシーズン何まで放送されましたか？",
+      "answer": "10",
+      "reading": ""
+    },
+    {
+      "id": "167ddf76d92a411eb428781256552143",
+      "question": "後方に飛ぶことができる鳥は何ですか？",
+      "answer": "ハチドリ",
+      "reading": ""
+    },
+    {
+      "id": "8d34e7149b964b68b041d6fee7f5278b",
+      "question": "コウモリが休憩や睡眠する時、どのような姿勢になりますか？",
+      "answer": "逆立ち",
+      "reading": ""
+    },
+    {
+      "id": "5a70466c85b94f5cb1879a6ec64855cf",
+      "question": "購入すると追加でバフを獲得できるのはどれですか？",
+      "answer": "シルバー週パス",
+      "reading": ""
+    },
+    {
+      "id": "c12eafae30224f07b404618bc1e4a101",
+      "question": "国際日付変更線を跨ぐ大陸は何ですか？",
+      "answer": "南極大陸",
+      "reading": ""
+    },
+    {
+      "id": "11be1843cfd2452da1abf1d9dd153d5f",
+      "question": "子ども3人で餅を3個食べるには3分をかかり、子ども90人で餅を90個食べるには何分かかりますか？",
+      "answer": "3分",
+      "reading": ""
+    },
+    {
+      "id": "b4e93e75e5974a1e82f7edef2a8ee647",
+      "question": "才能スキルはいくつありますか？",
+      "answer": "9枚",
+      "reading": ""
+    },
+    {
+      "id": "da113bc515ed4535b1f5d3475d5126ad",
+      "question": "「桜の国」という別名を持つ国はどこですか？",
+      "answer": "日本",
+      "reading": ""
+    },
+    {
+      "id": "0397ed2c265546a1aefe29bce42dca47",
+      "question": "サッカーではどのような方法でキック・オフの権利を決めますか？",
+      "answer": "コイントス",
+      "reading": ""
+    },
+    {
+      "id": "1e0d37b130e8472da1ed39e08c22960a",
+      "question": "サバイバルテストに関する正しい選択肢はどれですか？",
+      "answer": "グローリー・ロードの開放でEXPバフを獲得",
+      "reading": ""
+    },
+    {
+      "id": "64d63ef7e223458ab91d41cfa5dd52d8",
+      "question": "「ザ・ラスト・オブ・アス1」でワクチンを作ったのは誰ですか？",
+      "answer": "エリー",
+      "reading": ""
+    },
+    {
+      "id": "3d47b13979834967885880c951169f4f",
+      "question": "詩『荒地』の作者は誰ですか？",
+      "answer": "エリオット",
+      "reading": ""
+    },
+    {
+      "id": "735821e00dae47f394b9a3bbf1b606a6",
+      "question": "シェイクスピアの四大悲劇に含まれていないのは下記のどれですか？",
+      "answer": "ロミオとジュリエット",
+      "reading": ""
+    },
+    {
+      "id": "30dba3f8c0cf4f8d9a7ead15593978eb",
+      "question": "指揮官はいくつのタレントを持っていますか？",
+      "answer": "3",
+      "reading": ""
+    },
+    {
+      "id": "593c070ba88342e88cff56fff451f090",
+      "question": "色覚異常の患者が一番見にくいとされる色は何ですか？",
+      "answer": "赤緑",
+      "reading": ""
+    },
+    {
+      "id": "21ec62fe44074534804e746d4016b095",
+      "question": "自己実現理論にいくつの段階がありますか？",
+      "answer": "ランク5",
+      "reading": ""
+    },
+    {
+      "id": "c748c128270a4d4d8cfa5f3fa3496c4f",
+      "question": "週末世界の生存において、「S.T.O.P」原則の「S」は通常何を表しますか？",
+      "answer": "その場に留まる",
+      "reading": ""
+    },
+    {
+      "id": "14e404c2c07e400ca8bd13fe6f8a81ac",
+      "question": "『シュレック』、『カンフー・パンダ』はどの映画会社のアニメですか？",
+      "answer": "ドリームワークス",
+      "reading": ""
+    },
+    {
+      "id": "d3ebc667fecd40e9b6e1ce9d531b434e",
+      "question": "上級募集で★5英雄が出てくる確率は何ですか？",
+      "answer": "30%",
+      "reading": ""
+    },
+    {
+      "id": "b9c5c2f030a24d41bd8232b9e38bbab7",
+      "question": "浄水の戦では、何分防御し続けると占領成功になりますか？",
+      "answer": "3分",
+      "reading": ""
+    },
+    {
+      "id": "c07f29c72a8c4f80a505feece0344335",
+      "question": "浄水の戦を一回挑戦するには、何分かかりますか？",
+      "answer": "60分",
+      "reading": ""
+    },
+    {
+      "id": "ef64748af7ce4eb687c893771568d811",
+      "question": "小説『The Road』で、父子が終末後の世界で主に直面する脅威は何ですか？",
+      "answer": "飢えと寒さに苦しみ、共食いする匪賊団",
+      "reading": ""
+    },
+    {
+      "id": "32be81ab4d354be19724b8147d43352c",
+      "question": "小説『宇宙戦争』で描かれた宇宙人の侵略を阻止したのは何ですか？",
+      "answer": "地球上の細菌",
+      "reading": ""
+    },
+    {
+      "id": "e8a1e110de434a2f89ae0d867cffd32b",
+      "question": "翔太が火事で失った家族は誰ですか？",
+      "answer": "お母さん",
+      "reading": ""
+    },
+    {
+      "id": "a0222f951b024940899d75b29212d8be",
+      "question": "翔太の家が火事になった原因はなんですか？",
+      "answer": "精神病のお母さんが家を点火したから",
+      "reading": ""
+    },
+    {
+      "id": "2f1558f8c2414d408e4ce2ae6abd6138",
+      "question": "翔太が消防士になった理由はなんですか？",
+      "answer": "命の恩人に恩を返すため",
+      "reading": ""
+    },
+    {
+      "id": "e17092b79d6c4313825280652b63e8f2",
+      "question": "翔太の前の職業はなんですか？",
+      "answer": "消防士",
+      "reading": ""
+    },
+    {
+      "id": "97789bfefc0c491795b1f947d204a290",
+      "question": "翔太の理想はなんですか？",
+      "answer": "他人を救うこと",
+      "reading": ""
+    },
+    {
+      "id": "36bda685d7544c5aa3fb5dc6b3b6cf94",
+      "question": "白兎の目は何の色ですか？",
+      "answer": "無色",
+      "reading": ""
+    },
+    {
+      "id": "dfff8d8f93da438c8f24caefb1a02244",
+      "question": "蜃気楼がよく出現する季節は何ですか？",
+      "answer": "夏",
+      "reading": ""
+    },
+    {
+      "id": "0d6f078f0be349a78ea418fca2ac794a",
+      "question": "人体で最も早く老化する器官は何ですか？",
+      "answer": "胸腺",
+      "reading": ""
+    },
+    {
+      "id": "643a319b32f54205a8c83c95d8de912a",
+      "question": "人体内で酸素を運ぶ役割を担う細胞は何ですか？",
+      "answer": "赤血球",
+      "reading": ""
+    },
+    {
+      "id": "38d0ee9509174127b74349b37d6ae6ae",
+      "question": "人体の中で一番大きな消化腺は何ですか？",
+      "answer": "肝臓",
+      "reading": ""
+    },
+    {
+      "id": "8a5715c861bf42dd834fcd3d538998b5",
+      "question": "人体の中で解毒作用がある内臓は？",
+      "answer": "肝臓",
+      "reading": ""
+    },
+    {
+      "id": "fc1ce2edb93e467aa7f14472136c520e",
+      "question": "人体の中で含まれる水分量が最も多い器官はどれですか？",
+      "answer": "眼球",
+      "reading": ""
+    },
+    {
+      "id": "9516848a120e4d29aaaf3f5ee8fd972b",
+      "question": "人体の中で最も水分が含まれる器官は？",
+      "answer": "眼球",
+      "reading": ""
+    },
+    {
+      "id": "932bd1e118b3449d86649041102a2490",
+      "question": "人類が呼吸する時、放出するガスは何ですか？",
+      "answer": "二酸化炭素",
+      "reading": ""
+    },
+    {
+      "id": "5485c163dec14763a2a0e347f20e0f0d",
+      "question": "人類が最初に使用したとされる道具の材料は何ですか？",
+      "answer": "石",
+      "reading": ""
+    },
+    {
+      "id": "945f0fa44bbf4cee9519a1a1a3cdd6d9",
+      "question": "『人類の子』という映画はどのような種類の終末世界を描いていますか？",
+      "answer": "世界規模の不妊",
+      "reading": ""
+    },
+    {
+      "id": "ff255f89f3c444af8e1c71d7457fd25a",
+      "question": "人類の中で最初に月に降りたのは？",
+      "answer": "アポロ11号",
+      "reading": ""
+    },
+    {
+      "id": "e1482cdf6ffb4436b43f7481bc8d4b62",
+      "question": "スカーレットのスキルで敵何人にダメージを与えますか？",
+      "answer": "1体",
+      "reading": ""
+    },
+    {
+      "id": "503398c2e6a64f008497c700904c06c9",
+      "question": "スケートを発明した目的は何ですか？",
+      "answer": "交通手段として使用する",
+      "reading": ""
+    },
+    {
+      "id": "be842099fda64d299e08a821817b683f",
+      "question": "スヌーカービリヤードでは白と赤の球を除いて、合計いくつのカラー球がありますか？",
+      "answer": "６",
+      "reading": ""
+    },
+    {
+      "id": "c8f42965d1e64dd5810451b6566e58b2",
+      "question": "世紀末に関するゲームは下記のどれですか？",
+      "answer": "L4D2",
+      "reading": ""
+    },
+    {
+      "id": "7e58a62e894f42cca4b97cda0e0d5431",
+      "question": "生物研究所機能ではないのはどれですか？",
+      "answer": "英雄の破片",
+      "reading": ""
+    },
+    {
+      "id": "1adc595debc54a62a1a962f2ece737bc",
+      "question": "世界一深いマリアナ海溝はどの海洋にありますか？",
+      "answer": "太平洋",
+      "reading": ""
+    },
+    {
+      "id": "e411aa144bea4174b5c29a4d01c612df",
+      "question": "世界最初の切手はどこで発行されましたか？",
+      "answer": "イギリス",
+      "reading": ""
+    },
+    {
+      "id": "52db2c0755ce4935be16f7adc43e80d3",
+      "question": "世界最大のサンゴ礁系は？",
+      "answer": "グレートバリアリーフ",
+      "reading": ""
+    },
+    {
+      "id": "631fc534339c471bb991ccb5f146a128",
+      "question": "世界最大の島国グリーンランドはどの国に属していますか？",
+      "answer": "デンマーク",
+      "reading": ""
+    },
+    {
+      "id": "9b6ece8e106a4e0582e38142935c5ae7",
+      "question": "世界最大の哺乳類動物は何ですか？",
+      "answer": "シロナガスクジラ",
+      "reading": ""
+    },
+    {
+      "id": "91da9bc3c9da4702a644f8ab1347e13d",
+      "question": "世界中で最も北にある首都は何ですか？",
+      "answer": "レイキャビク",
+      "reading": ""
+    },
+    {
+      "id": "6cb3d2eb1797421595fe4fedb2d7a00a",
+      "question": "世界中で最も高い山は何ですか？",
+      "answer": "エベレスト",
+      "reading": ""
+    },
+    {
+      "id": "02b6d508ff19464daf0a8b21ebd64338",
+      "question": "世界中で最も長い山脈は何ですか？",
+      "answer": "アンデス山脈",
+      "reading": ""
+    },
+    {
+      "id": "dad5e1e2ab294c01aa42da56c0478870",
+      "question": "世界中で最も刃が多い動物は何ですか？",
+      "answer": "カタツムリ",
+      "reading": ""
+    },
+    {
+      "id": "1984fad358404686990c2c68500b7092",
+      "question": "世界中で最も広い島は何ですか？",
+      "answer": "グリーンランド",
+      "reading": ""
+    },
+    {
+      "id": "8b6541307703490b8ac3a1dc0957a442",
+      "question": "世界中で最も面積が大きい国は何ですか？",
+      "answer": "ロシア",
+      "reading": ""
+    },
+    {
+      "id": "184b4badeef54df9b325baee54ca0ecc",
+      "question": "世界中で最も面積が小さい国は何ですか？",
+      "answer": "バチカン",
+      "reading": ""
+    },
+    {
+      "id": "49ddbf4856e54b2f80f212a6c4412477",
+      "question": "世界で一番大きな海洋は？",
+      "answer": "太平洋",
+      "reading": ""
+    },
+    {
+      "id": "0d615d53a9af4acd8d03d368a767e764",
+      "question": "世界で最大の半島はどこですか？",
+      "answer": "アラビア半島",
+      "reading": ""
+    },
+    {
+      "id": "3d72b99fc5d144948ead67980f91a8a4",
+      "question": "世界トップ3の数学者でないのは誰ですか？",
+      "answer": "チャールズ・ダーウィン",
+      "reading": ""
+    },
+    {
+      "id": "f86cda2ac3ce48fca2881668fab4eb88",
+      "question": "世界初の銀行はどの国にありますか？",
+      "answer": "イタリア",
+      "reading": ""
+    },
+    {
+      "id": "2249dac658fc49efaff6a263e5c18340",
+      "question": "設立された時間が最も遅い賞はどれですか？",
+      "answer": "経済学賞",
+      "reading": ""
+    },
+    {
+      "id": "105f761d4aca4c768ddf5b8f3145306d",
+      "question": "ゼフィロスの正体はなんですか？",
+      "answer": "謎の男",
+      "reading": ""
+    },
+    {
+      "id": "2f00be9e65ee4fff9afc8b715bf23470",
+      "question": "ゼフィロスはどんな性格ですか？",
+      "answer": "無口な性格",
+      "reading": ""
+    },
+    {
+      "id": "0b0892826fa246dfbdc2d318a15241bd",
+      "question": "『ダイイングライト』シリーズの最大の特徴はどのようなゲームプレイですか？",
+      "answer": "一人称視点とパルクール",
+      "reading": ""
+    },
+    {
+      "id": "865e9399be5f4ce584e4d5ff9b9035f5",
+      "question": "ダイヤで購入できないアイテムはどれですか？",
+      "answer": "部隊訓練人数増加",
+      "reading": ""
+    },
+    {
+      "id": "f3ce1c8cf958406a9b981a6c9944fa32",
+      "question": "正しいアルコールランプの火の消し方はどれですか？",
+      "answer": "ふたをかぶせる",
+      "reading": ""
+    },
+    {
+      "id": "d58a8ab6e2f243ac9b111ac063a583ed",
+      "question": "旅の商人にある商品の更新時間は何時間ですか？",
+      "answer": "3時間",
+      "reading": ""
+    },
+    {
+      "id": "b21bbafd3dfb48d8815585df8e38916f",
+      "question": "弾丸でガラスを割る時、最初にガラスを割るのは何ですか？",
+      "answer": "空気",
+      "reading": ""
+    },
+    {
+      "id": "bc57620483c44b18a847539fa5b72227",
+      "question": "探索ダンジョンに必要なアイテムはどれですか？",
+      "answer": "AP",
+      "reading": ""
+    },
+    {
+      "id": "048a64028f6046ca9d971de5f987303b",
+      "question": "探索ダンジョンの自動戦闘機能を開放できるVIPレベルはいくつですか？",
+      "answer": "VIP5",
+      "reading": ""
+    },
+    {
+      "id": "6b4c9e841e3c4c998f2cf7944868a8dd",
+      "question": "地球上で最も多く発生する自然現象は？",
+      "answer": "雨",
+      "reading": ""
+    },
+    {
+      "id": "957d0ce3a6ae459099e8323bba666696",
+      "question": "地球の自転方向は何ですか？",
+      "answer": "西から東",
+      "reading": ""
+    },
+    {
+      "id": "27afb12ed2dc4119a5abfb08d4c038b6",
+      "question": "「知識は力なり」を主張する人はだれですか？",
+      "answer": "フランシス・ベーコン",
+      "reading": ""
+    },
+    {
+      "id": "ed07c122b25f45fc8c55024599383a52",
+      "question": "中級募集で★4英雄が出てくる確率は何ですか？",
+      "answer": "5.5%",
+      "reading": ""
+    },
+    {
+      "id": "1f3d48d04ed94f49ad1159311933cef3",
+      "question": "直接獲得できないのはどれですか？",
+      "answer": "ランキングボーナス",
+      "reading": ""
+    },
+    {
+      "id": "dc1043cc44c3473b87861ff5519c24f8",
+      "question": "貯蔵されている野菜や果物が腐敗すると、どんな毒ガスが放出されますか？",
+      "answer": "硫化水素",
+      "reading": ""
+    },
+    {
+      "id": "97c6915bfd46441d9b7cb27ecc3eda7e",
+      "question": "ツァイと南川律はどんな関係ですか？",
+      "answer": "養母と養女",
+      "reading": ""
+    },
+    {
+      "id": "d6cf1b368caf475ab6364955ca1022b7",
+      "question": "月のピラミッドはどこにありますか？",
+      "answer": "メキシコ",
+      "reading": ""
+    },
+    {
+      "id": "a8e600ebdda847dab648a56659f88e42",
+      "question": "デイリー任務で獲得できる最大ポイント数はどれですか？",
+      "answer": "150",
+      "reading": ""
+    },
+    {
+      "id": "081980b24e59475eb9e292985594423c",
+      "question": "東西ベルリンを分断した冷戦時代の障壁は何ですか？",
+      "answer": "ベルリンの壁",
+      "reading": ""
+    },
+    {
+      "id": "1c378ad2dfc74f14abfb14831cb87e3c",
+      "question": "特殊作戦の結果を決める根拠は何ですか？",
+      "answer": "1回の挑戦のダメージ",
+      "reading": ""
+    },
+    {
+      "id": "487bd0b88be84530968d016a1500b4e0",
+      "question": "突然失神した場合の処理方法は何ですか？",
+      "answer": "呼吸をスムーズに保つため、患者を横にさせる",
+      "reading": ""
+    },
+    {
+      "id": "5f4ddde97c2241ffaf67af5db3047cc5",
+      "question": "どのエネルギーが再生可能エネルギーではありませんか？",
+      "answer": "天然ガス",
+      "reading": ""
+    },
+    {
+      "id": "9fe3b9dd73df478889041f72401ac6b6",
+      "question": "どのガスが地球を温め、温室効果を引き起こしていますか？",
+      "answer": "二酸化炭素",
+      "reading": ""
+    },
+    {
+      "id": "805f43fad721415cb7b0d5b75d0ca445",
+      "question": "どの国が「メープルリーフの国」と呼ばれていますか？",
+      "answer": "カナダ",
+      "reading": ""
+    },
+    {
+      "id": "3c1f66f0449047b2ba473f22281ee70c",
+      "question": "どの国が最も多くのタイムゾーンを持っていますか？",
+      "answer": "ロシア",
+      "reading": ""
+    },
+    {
+      "id": "5c443ac5b8ab45d1a0888cfea3dfb15e",
+      "question": "どの皇帝がロシア帝国の近代化改革者として知られていますか？",
+      "answer": "ピョートル大帝",
+      "reading": ""
+    },
+    {
+      "id": "43b547d6e1d943939ffd3e3d52f8278b",
+      "question": "どの建物をアップすれば兵士の訓練上限が上がりますか？",
+      "answer": "ブートキャンプ",
+      "reading": ""
+    },
+    {
+      "id": "e6288c0002f54860a9a6fcaa1e2f8a1c",
+      "question": "どの探検家が初めて世界一周航海に成功しましたか？",
+      "answer": "マゼラン",
+      "reading": ""
+    },
+    {
+      "id": "1a6170c518174d918d4e6a247b3b216a",
+      "question": "どの都市が「永遠の都」と呼ばれていますか？",
+      "answer": "ローマ",
+      "reading": ""
+    },
+    {
+      "id": "2b588868bf2049659d854b181737d4b5",
+      "question": "どの都市が「ギャンブルの街」として有名ですか？",
+      "answer": "ラスベガス",
+      "reading": ""
+    },
+    {
+      "id": "429230046bbd4cb0af945116f545b1eb",
+      "question": "トーマスはどの何のプロ選手ですか？",
+      "answer": "自動車競技",
+      "reading": ""
+    },
+    {
+      "id": "54126eddf85142edabd8895e516fb494",
+      "question": "知世が命を落としかけた原因はなんですか？",
+      "answer": "火事現場で赤ちゃんを助けた",
+      "reading": ""
+    },
+    {
+      "id": "55be29d959ef4ec8800cb68e25e7cae6",
+      "question": "知世のお兄さんのお名前はなんですか？",
+      "answer": "柳生明悟",
+      "reading": ""
+    },
+    {
+      "id": "a5d59944ff2d4659b2f3fb4c91b6e07c",
+      "question": "知世の軍団スキルは何ですか？",
+      "answer": "部隊HP増加",
+      "reading": ""
+    },
+    {
+      "id": "436c1f0542624dddb98e8752e2fdd32c",
+      "question": "知世の得意技はなんですか？",
+      "answer": "二刀流・桜吹雪",
+      "reading": ""
+    },
+    {
+      "id": "de1b7c4d41ae49abb966e8b4668805e6",
+      "question": "知世はいつ家から出ましたか？",
+      "answer": "お兄さんの誕生日の日に家から出た",
+      "reading": ""
+    },
+    {
+      "id": "55baaa75e22e49acb7c0eeda3e85b03c",
+      "question": "知世はどうやって強い力を手に入れましたか？",
+      "answer": "医療キャビンに入り、体を再生した後、新たな力を手に入れた",
+      "reading": ""
+    },
+    {
+      "id": "2ea8c4b5ed9e42098e3048253eb8a065",
+      "question": "ナノウェポンのノーマル作成ではどんなウェポンを作成できますか？",
+      "answer": "ランダムウェポン",
+      "reading": ""
+    },
+    {
+      "id": "50fd4f4d325d4c7c8a0ab57f6b1eaf84",
+      "question": "ナノウェポンを解放できる武器庫の条件レベルは何ですか？",
+      "answer": "20",
+      "reading": ""
+    },
+    {
+      "id": "feadd21ede684c569058250431182ab8",
+      "question": "任務がないとき、ゼフィロスが好きな居場所はどこですか？",
+      "answer": "実験室",
+      "reading": ""
+    },
+    {
+      "id": "6fdda079a08d4ea9a61a83fa2bc2bc38",
+      "question": "ネナシカズラ特殊作戦小隊に所属している方は誰ですか？",
+      "answer": "マーシャル",
+      "reading": ""
+    },
+    {
+      "id": "f15d3a5d918146a99cc4c861789d5a49",
+      "question": "ノヴァのZワクチンを獲得できる場所はどこですか？",
+      "answer": "エピソード任務",
+      "reading": ""
+    },
+    {
+      "id": "4cc4126e316a4b5dbfae20613fc6b37d",
+      "question": "「バイオハザードV リトリビューション」映画の悪役は誰ですか？",
+      "answer": "AI",
+      "reading": ""
+    },
+    {
+      "id": "c36cef9961204d83bea9c7717e846126",
+      "question": "廃墟で英雄挑戦が開催する時間はいつですか？",
+      "answer": "月曜日",
+      "reading": ""
+    },
+    {
+      "id": "752a28ff73fc42fa8980a05ec3762b13",
+      "question": "バッグでアイテムを選択後、交換ボタンを押すと、アイテムはどうなりますか？",
+      "answer": "アイテムがダイヤ/資源に変換される",
+      "reading": ""
+    },
+    {
+      "id": "50677ab14fe6404fbb4bca7611b4576c",
+      "question": "バーで★5英雄破片を交換するには何ポイント必要ですか？",
+      "answer": "1000ポイント",
+      "reading": ""
+    },
+    {
+      "id": "85aaca2167d1430ab47437cd5c0483e1",
+      "question": "パリのノートルダム大聖堂の建築様式は何ですか？",
+      "answer": "ゴシック",
+      "reading": ""
+    },
+    {
+      "id": "3308969c984f4f1193a6844e16caaaf0",
+      "question": "ハレー彗星の出現周期は何年ですか？",
+      "answer": "75年",
+      "reading": ""
+    },
+    {
+      "id": "137d8952b15f4df5a798e557f2930db6",
+      "question": "万有引力の法則を提起したのは誰ですか？",
+      "answer": "アイザック・ニュートン",
+      "reading": ""
+    },
+    {
+      "id": "9d393c98386f4bb08eb6544eba01941b",
+      "question": "万有引力法則の発表時間はいつですか？",
+      "answer": "1687年",
+      "reading": ""
+    },
+    {
+      "id": "f089785e9bff4e2dba9ddf989d050786",
+      "question": "「ビッグアップル」と呼ばれる都市はどこですか？",
+      "answer": "ニューヨーク",
+      "reading": ""
+    },
+    {
+      "id": "0a3bc6d71ef94ff989d6ed457b874623",
+      "question": "ビッグバン理論を最初に提唱した人は誰ですか？",
+      "answer": "ジョルジュ・ルメートル",
+      "reading": ""
+    },
+    {
+      "id": "421ab0accfb542d78926e9e2b3f444d8",
+      "question": "羊7匹でかくれんぼをし、3匹を見つけました、まだ見つけていない羊は何匹ですか？",
+      "answer": "3匹",
+      "reading": ""
+    },
+    {
+      "id": "2bf59bfed61541bf903ee3e35a5a7763",
+      "question": "ビートルシリーズはドイツのどの会社の車ですか？",
+      "answer": "フォルクスワーゲン",
+      "reading": ""
+    },
+    {
+      "id": "7a2acc6e46ea4ad5adda115903710571",
+      "question": "人が呼吸する時、吸い込む期待は何ですか？",
+      "answer": "酸素",
+      "reading": ""
+    },
+    {
+      "id": "424984d10c174bfea63bc3c809838624",
+      "question": "避難所にいる兵士が消費するアイテムはどれですか？",
+      "answer": "食料",
+      "reading": ""
+    },
+    {
+      "id": "c6c4e7c99e97400eab4c91d3b5a52990",
+      "question": "避難所内の赤いビックリマークの意味は何ですか？",
+      "answer": "特殊事件",
+      "reading": ""
+    },
+    {
+      "id": "286d4213bba541bdb280990912ad70b8",
+      "question": "避難所の空き地で建造する建築の上限はいくらですか？",
+      "answer": "35枚",
+      "reading": ""
+    },
+    {
+      "id": "885f21e03fa849f595b07f2a255c6dc4",
+      "question": "避難所の外観変更後、誰のが見えますか？",
+      "answer": "自分も他人も",
+      "reading": ""
+    },
+    {
+      "id": "88f0e24439be4c1d97afc36778c3f37d",
+      "question": "避難所レベルがいくつに達すると競売を開放できますか？",
+      "answer": "Lv.20",
+      "reading": ""
+    },
+    {
+      "id": "b24c92bd465542acabc2aabd3ed8c8fc",
+      "question": "避雷針を発明した人はだれですか？",
+      "answer": "ベンジャミン・フランクリン",
+      "reading": ""
+    },
+    {
+      "id": "1af9d45937fd4344855fa9862a81a9d0",
+      "question": "フィネスがアマンダからもらった初めての任務はなんですか？",
+      "answer": "銀行強盗",
+      "reading": ""
+    },
+    {
+      "id": "48aceb31d678428abffc7d5990c89e12",
+      "question": "フィネスが任務で初めてピエロに扮した原因はなんですか？",
+      "answer": "自分の顕示欲を満たすため",
+      "reading": ""
+    },
+    {
+      "id": "f73fc37b75ff416f931e9c6eb8288656",
+      "question": "フィネスの得意技はなんですか？",
+      "answer": "ダーツ",
+      "reading": ""
+    },
+    {
+      "id": "e2a8ae94f13e45c1b90cd66a701442cc",
+      "question": "フィネスは子供の頃、どこで暮らしていましたか？",
+      "answer": "サーカス",
+      "reading": ""
+    },
+    {
+      "id": "70acd1341b444c049dad0544909747f9",
+      "question": "フォックスが噂に対する態度はなんですか？",
+      "answer": "恐れ知らず",
+      "reading": ""
+    },
+    {
+      "id": "c576f0c04f89438784aa6a1ec2445012",
+      "question": "フォックスが疫学専攻を選択した理由はなんですか？",
+      "answer": "両親が疫病のせいで亡くなった",
+      "reading": ""
+    },
+    {
+      "id": "14c09ce1b2294a8589110881e69ce8fa",
+      "question": "フォックスが暮らしている都市の名前はなんですか？",
+      "answer": "ゲオバリー",
+      "reading": ""
+    },
+    {
+      "id": "58d80ef60a29448388d1cd9b3c46f9ba",
+      "question": "フォックスが担当した職位はどっちですか？",
+      "answer": "国家医学会",
+      "reading": ""
+    },
+    {
+      "id": "572271a1bdde465e940e327b24d1567f",
+      "question": "フォックスの研究によると、ウィルスの起源は何ですか？",
+      "answer": "本源テクノロジー研究の産物",
+      "reading": ""
+    },
+    {
+      "id": "6bb8666cdbe448b89807ed9a11f92196",
+      "question": "フォックスのスキルには、治療以外にどんな効果がありますか？",
+      "answer": "異常状態を全部回復",
+      "reading": ""
+    },
+    {
+      "id": "b89ff562b20042d2a3d69181cfcaa2e5",
+      "question": "武器庫レベルがいくつに達するとキューブシステムの解放ができますか？",
+      "answer": "Lv.25",
+      "reading": ""
+    },
+    {
+      "id": "8f847b69aaa54ff6bb2f41efa036273e",
+      "question": "フクロウが寝る時、目は？",
+      "answer": "片目だけ閉じる",
+      "reading": ""
+    },
+    {
+      "id": "384c7dfe0b1d4b52bb647149c6a3858c",
+      "question": "不審者からメッセージを受信した時の正しい処理法はどれですか？",
+      "answer": "公式に通報",
+      "reading": ""
+    },
+    {
+      "id": "5c70c808049348ca9af2c6b3154f17bb",
+      "question": "冬の日にお湯を入れたら破れやすいガラスはどれですか？",
+      "answer": "熱いガラス",
+      "reading": ""
+    },
+    {
+      "id": "4ffa027cf6ae411284a96ad6159fa09c",
+      "question": "舞踊劇「白鳥の湖」はどの種類の舞踊ですか？",
+      "answer": "バレエ",
+      "reading": ""
+    },
+    {
+      "id": "4dc1abaae20f4454975a80d05c1e7b08",
+      "question": "『ブラインドネス』という映画は、そのような災害が社会崩壊を引き起こすと語っていますか？",
+      "answer": "失明を引き起こす伝染病",
+      "reading": ""
+    },
+    {
+      "id": "e834526d8e914c6bb7a4919aa9998832",
+      "question": "フロンが環境に与える影響は何ですか？",
+      "answer": "オゾン層破壊",
+      "reading": ""
+    },
+    {
+      "id": "02d0d085a0414612b245c810557c314e",
+      "question": "ベートーベンの『交響曲第5番』は何と呼ばれていますか？",
+      "answer": "「運命」交響曲",
+      "reading": ""
+    },
+    {
+      "id": "f5791cfb7ef341d3907ab1ce05b083af",
+      "question": "放射能の研究で2回ノーベル賞を受賞した科学者は誰ですか？",
+      "answer": "マリ・キュリー",
+      "reading": ""
+    },
+    {
+      "id": "88e3cdf12a3b4655a6cea59347bd6b36",
+      "question": "ポストアポカリプスゲーム『Fallout』シリーズで、世界が滅亡した主な理由は何ですか？",
+      "answer": "核戦争",
+      "reading": ""
+    },
+    {
+      "id": "e4f2ff0a15d2434ca0f2c0d3942b5745",
+      "question": "北斗七星が所属する星座は何ですか？",
+      "answer": "おおぐま座",
+      "reading": ""
+    },
+    {
+      "id": "fd8fe9f6e6294c8cbeb71d17e5eaa48a",
+      "question": "ボタン型電池の中にある、人体に有害な元素は何ですか？",
+      "answer": "水銀",
+      "reading": ""
+    },
+    {
+      "id": "5338a5c421be4d3eb163d4057e6b8ce1",
+      "question": "ほとんどのゾンビ作品では、ゾンビは通常どのような方法で人間に感染しますか？",
+      "answer": "噛みつきや血液感染で広がる",
+      "reading": ""
+    },
+    {
+      "id": "0908433ca149434b94687c2975723743",
+      "question": "北極海沿岸に生息する住民はなんと呼ばれますか？",
+      "answer": "イヌイット",
+      "reading": ""
+    },
+    {
+      "id": "32ed94a71c1b4ea08448e8de60ef05d4",
+      "question": "ホッキョクグマのスキンは何の色ですか？",
+      "answer": "黒",
+      "reading": ""
+    },
+    {
+      "id": "49915764112943088d9484a7ccdf6da8",
+      "question": "マイクロソフト社のブラウザはどのアルファベットで表されていますか？",
+      "answer": "e",
+      "reading": ""
+    },
+    {
+      "id": "5be33f28746d488b9cbe7dc54062aac3",
+      "question": "マーシャルの足が不自由になった原因はなんですか？",
+      "answer": "息子を救うために負傷したから",
+      "reading": ""
+    },
+    {
+      "id": "06d23e53c3f248adbc7835338bb52c4c",
+      "question": "マーシャルの妻が囚われている刑務所の名前はなんですか？",
+      "answer": "アンドス女子刑務所",
+      "reading": ""
+    },
+    {
+      "id": "4fb82fbf644749c8996f548354784972",
+      "question": "マーシャルの息子の名前はなんですか？",
+      "answer": "リチャード",
+      "reading": ""
+    },
+    {
+      "id": "8aa9f3113c8841a5ade7091119b98177",
+      "question": "マーシャルの元の職業はなんですか？",
+      "answer": "機関銃の射手",
+      "reading": ""
+    },
+    {
+      "id": "f6ba96c791ca4624a329d2398ecfc1b2",
+      "question": "マラソンという単語の語源は何ですか？",
+      "answer": "地名",
+      "reading": ""
+    },
+    {
+      "id": "413f7db5cdc545e6bce9735fb8257cb5",
+      "question": "マラソンの名の由来は何ですか？",
+      "answer": "戦争",
+      "reading": ""
+    },
+    {
+      "id": "e1b232e5115e4abaa163c4e55a16ddb3",
+      "question": "マリオスがアマンダからもらったものはなんですか？",
+      "answer": "アーマー",
+      "reading": ""
+    },
+    {
+      "id": "1d3655cd6d89438996500e871f01858d",
+      "question": "マリオスの前の職業はなんですか？",
+      "answer": "警察官",
+      "reading": ""
+    },
+    {
+      "id": "dfdf6bb1eebc4db3bb5f635312775387",
+      "question": "マリオスはどうやって強盗を始末しましたか？",
+      "answer": "銃で射殺した",
+      "reading": ""
+    },
+    {
+      "id": "098093e16feb480bb144877cb013e381",
+      "question": "味方を治療できる英雄は下記の誰ですか？",
+      "answer": "フォックス",
+      "reading": ""
+    },
+    {
+      "id": "04204219912545999128ede938cd645e",
+      "question": "水の分子はいくつの水素原子からできていますか？",
+      "answer": "2つ",
+      "reading": ""
+    },
+    {
+      "id": "328daf5db18b4f37a9d370108487de91",
+      "question": "みにくいアヒルはどの童話に登場しますか？",
+      "answer": "アンデルセン童話",
+      "reading": ""
+    },
+    {
+      "id": "165cc80923c045368a898e9cd6b636a5",
+      "question": "ミミズの血の色は何ですか？",
+      "answer": "赤",
+      "reading": ""
+    },
+    {
+      "id": "a253e213edee4fb4bab045f59a191af8",
+      "question": "ミュージカル『キャッツ』の作曲家は誰ですか？",
+      "answer": "アンドリュー・ロイド・ウェーバー",
+      "reading": ""
+    },
+    {
+      "id": "55e61ef39fc140559d5a8be45cf66359",
+      "question": "紫の英雄チェスは何色のチェスに有利ですか？",
+      "answer": "金",
+      "reading": ""
+    },
+    {
+      "id": "d687d0fb347b471db06899a88207701d",
+      "question": "野外でゾンビを倒すと、確率で獲得できるのはどれですか？",
+      "answer": "英雄の破片",
+      "reading": ""
+    },
+    {
+      "id": "fb4aa7205bcc469b954422f911f9ce2c",
+      "question": "ヨーロッパで一番高い山脈は？",
+      "answer": "アルプス山脈",
+      "reading": ""
+    },
+    {
+      "id": "2a1b3ebf5dde4cd2a927cb39d7450e20",
+      "question": "ワリオの英雄スキルはなんですか？",
+      "answer": "敵がダメージを分担させる",
+      "reading": ""
+    },
+    {
+      "id": "1138dfd7d6a74a9f8e04b2b02922f2d2",
+      "question": "ワリオのスキルにはどんな効果がありますか？",
+      "answer": "味方とダメージを共有",
+      "reading": ""
+    },
+    {
+      "id": "6383becfd2584f368d2fdd8bad159155",
+      "question": "AEDはいつ使用しますか？",
+      "answer": "負傷者の心臓が止まる時",
+      "reading": ""
+    },
+    {
+      "id": "1841310233c6481dbf1107a2cbf2410e",
+      "question": "「and」を意味する富豪は下記のどっちですか？",
+      "answer": "&",
+      "reading": ""
+    },
+    {
+      "id": "0605d764ac5f4e5186eca9f0dd5b33a9",
+      "question": "『Days Gone』の物語の背景設定はアメリカのどの州ですか？",
+      "answer": "オレゴン州",
+      "reading": ""
+    },
+    {
+      "id": "f57dd5a974e6492680b4fd9929f34953",
+      "question": "E.T.が離れた後、アルファベットはいくつ残りますか？",
+      "answer": "21人",
+      "reading": ""
+    },
+    {
+      "id": "06a15c1aa96246fcaa01f224e3e7ec3d",
+      "question": "Instagramは当初、主にどんな機能で知られていましたか？",
+      "answer": "写真共有とフィルター",
+      "reading": ""
+    },
+    {
+      "id": "c66dd1f6aa764877b1b3cb682dbd558f",
+      "question": "Lv.26補給所は無料で何回補給できますか？",
+      "answer": "10回",
+      "reading": ""
+    },
+    {
+      "id": "84b208ebf5244a048ef948c07d02e7e8",
+      "question": "「MINI」シリーズはドイツのどの会社の車ですか？",
+      "answer": "BMW",
+      "reading": ""
+    },
+    {
+      "id": "d90140ae1e4349fda810f284b99febb9",
+      "question": "『StarCraft』、『World of Warcraft』はアメリカのどの会社のゲームですか？",
+      "answer": "ブリザード",
+      "reading": ""
+    },
+    {
+      "id": "1bcb1908514544b4b6623ec9ddf6e124",
+      "question": "VIPレベルがいくつに達するとクイック隊列機能を使用できますか？",
+      "answer": "VIP5",
+      "reading": ""
+    },
+    {
+      "id": "f737f48b9ea94188840afe31c5d0b59a",
+      "question": "Youtuberのビューディパイはどの国の方ですか？",
+      "answer": "スウェーデ",
+      "reading": ""
+    },
+    {
+      "id": "a4fc1858708b4595aac5f0af6689a1e1",
+      "question": "1から99を順番で書いた場合、トータルで1を何回書きましたか？",
+      "answer": "20個",
+      "reading": ""
+    },
+    {
+      "id": "91fa36bcedad4f1aac9db26b4ecb7f4f",
+      "question": "1キロワットの電気で、50ワットの電球を何時間点灯させることができますか？",
+      "answer": "20",
+      "reading": ""
+    },
+    {
+      "id": "cbf40956a74547b69c1800a448981c3b",
+      "question": "1日に無料で利用できるバーの一般募集は何回ですか？",
+      "answer": "5回",
+      "reading": ""
+    },
+    {
+      "id": "c1e398d11b9840e5bcf86e94e8638714",
+      "question": "1年の内、2ヶ月続けて31日があるのはどの月とどの月？",
+      "answer": "7月と8月",
+      "reading": ""
+    },
+    {
+      "id": "838cb36862094af49880a897fbd3a791",
+      "question": "17世紀から19世紀、プロイセン王国の領土は今のどの国の所在地ですか？",
+      "answer": "ドイツ",
+      "reading": ""
+    },
+    {
+      "id": "2b5dfbe8ce194d1996dc448cc281cec3",
+      "question": "19世紀初頭にヨーロッパの大部分を征服したフランスの将軍と皇帝は誰ですか？",
+      "answer": "ナポレオン・ボナパルト",
+      "reading": ""
+    },
+    {
+      "id": "31b74d755bb044bbaa348a6de081fa14",
+      "question": "「1000の湖のある国」と呼ばれる国はどこですか？",
+      "answer": "フィンランド",
+      "reading": ""
+    }
+  ]
+}
