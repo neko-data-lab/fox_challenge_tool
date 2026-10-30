@@ -1,0 +1,48 @@
+*{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+html,body{margin:0;padding:0;background:#2b2b2b;color:#fff;font-family:-apple-system,BlinkMacSystemFont,"Helvetica Neue",Arial,sans-serif}
+body{padding:14px 14px 24px;line-height:1.6}
+.page{width:100%;max-width:700px;margin:0 auto}
+.top{display:flex;justify-content:space-between;align-items:center;gap:10px;padding:4px 0 16px;border-bottom:1px solid #555;margin-bottom:16px}
+h1{font-size:21px;line-height:1.4;margin:0}
+.top p{font-size:12px;color:#ccc;margin:3px 0 0}
+.help-button{display:inline-flex;align-items:center;justify-content:center;padding:8px 13px;background:#3a3a3a;border:1px solid #666;border-radius:7px;color:#fff;text-decoration:none;font-size:13px;white-space:nowrap}
+.searchbox,.panel{background:#333;border:1px solid #555;border-radius:9px;padding:13px;margin-bottom:13px}
+label{display:block;font-size:14px;font-weight:600;margin:10px 0 6px}
+input,textarea{display:block;width:100%;min-width:0;background:#242424;color:#fff;border:1px solid #666;border-radius:7px;padding:11px;font:inherit;font-size:16px}
+textarea{resize:vertical}
+.inputrow,.row{display:flex;gap:8px;align-items:center}
+.inputrow input{flex:1}
+button{background:#2878c8;color:#fff;border:0;border-radius:7px;padding:10px 13px;font-size:14px;font-weight:650;cursor:pointer;white-space:nowrap}
+button.sub{background:#444;color:#fff;border:1px solid #666}
+button:active,.help-button:active{opacity:.7;transform:scale(.98)}
+.meta{display:flex;justify-content:space-between;gap:8px;color:#bbb;font-size:12px;margin-top:8px}
+.result{background:#333;border:1px solid #555;border-radius:9px;padding:12px;margin:9px 0}
+.qtext{font-size:13px;line-height:1.6;color:#ddd;margin:0 0 7px;overflow-wrap:anywhere}
+.answer{font-size:24px;line-height:1.35;font-weight:800;color:#ffd45a;margin:0;overflow-wrap:anywhere}
+.resultfoot{display:flex;justify-content:space-between;align-items:center;gap:8px;margin-top:10px}
+.resultfoot small{font-size:11px;color:#aaa}
+.copy{padding:7px 10px;font-size:12px}
+.empty{text-align:center;color:#bbb;padding:25px 8px;font-size:14px}
+.actions{display:flex;gap:8px;margin:14px 0}
+.actions button{flex:1}
+.panelhead{display:flex;justify-content:space-between;align-items:center;gap:8px;margin-bottom:8px}
+.note{font-size:12px;color:#ccc}
+.quizq{font-size:17px;font-weight:700;line-height:1.6}
+.quizq+.answer{margin:14px 0}
+.hidden{display:none!important}
+/* ファイル選択欄はボタンからのみ起動する */
+#importBtn + #fileInput, #fileInput{display:none!important}
+.importrow{margin:11px 0 14px}
+.importrow button{flex:1}
+.manageitem{border-top:1px solid #555;padding:11px 0}
+.manageitem p{font-size:13px;margin:0 0 6px;overflow-wrap:anywhere}
+.manageitem .answer{font-size:18px}
+.manageitem button{font-size:12px;padding:6px 10px;margin:3px 5px 0 0}
+footer{text-align:center;color:#999;font-size:11px;padding:18px 0 4px}
+dialog{background:#333;color:#fff;border:1px solid #666;border-radius:10px;width:min(92vw,480px);padding:17px}
+dialog::backdrop{background:#000b}
+dialog h2{font-size:18px;margin:0 0 12px}
+dialog label{margin:12px 0 5px}
+.dialog-actions{margin-top:16px}
+.dialog-actions button{flex:1}
+@media(min-width:600px){body{padding-top:20px}.answer{font-size:27px}}

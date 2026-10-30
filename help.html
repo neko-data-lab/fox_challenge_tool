@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<meta name="theme-color" content="#2b2b2b">
+<title>フォックスの挑戦 - 使い方</title>
+<link rel="stylesheet" href="style.css">
+<style>
+.help-page{max-width:700px;margin:0 auto}
+.help-page h2{font-size:17px;line-height:1.4;margin:28px 0 10px}
+.help-page h3{font-size:15px;margin:18px 0 8px}
+.help-page p,.help-page li{font-size:14px;line-height:1.7}
+.help-page p{margin:8px 0}
+.help-page ul{padding-left:22px}
+.feature{background:#333;border:1px solid #555;border-radius:8px;padding:10px 12px;margin:8px 0}
+.feature-title{font-size:15px;font-weight:bold;margin-bottom:4px}
+.feature-description{font-size:13px;line-height:1.6;color:#eee}
+.notice{background:#333;border:1px solid #666;border-radius:8px;padding:12px;margin-top:12px;font-size:13px;line-height:1.7}
+.notice p{font-size:13px}
+.back-area{text-align:center;margin-top:30px}
+.back-button{display:inline-flex;align-items:center;justify-content:center;min-width:150px;height:38px;padding:0 24px;background:#3a3a3a;color:#fff;text-decoration:none;border-radius:8px;border:1px solid #555}
+</style>
+</head>
+<body>
+<div class="page help-page">
+<header class="top">
+  <div><h1>フォックスの挑戦</h1><p>使い方</p></div>
+  <a class="help-button" href="index.html">検索画面へ</a>
+</header>
+
+<h2>このツールについて</h2>
+<p>こんにちは、しろねこですヽ(=´▽`=)ﾉ</p>
+<p>「フォックスの挑戦」クイズ検索ツールは、イベントで出題される問題の一部を入力して、答えをすばやく確認するための補助ツールです。</p>
+<p>問題文の先頭や、覚えている単語を入力すると、該当する問題を検索できます。問題の追加・編集や、ランダム出題にも対応しています。</p>
+<div class="notice">
+<strong>データについて</strong>
+<p>初期データとして問題を登録しています。掲載されている問題をすべて網羅しているものではなく、内容や回答が正しいことを保証するものでもありません。</p>
+</div>
+
+<h2>1. 問題を検索</h2>
+<p>画面上部の「問題文を入力」欄に、問題文の先頭1文字や、覚えている単語を入力します。</p>
+<div class="feature">
+<div class="feature-title">入力するとすぐに検索</div>
+<div class="feature-description">1文字入力した時点から候補を表示します。問題文の先頭に一致する候補を優先し、その後に問題文や読みの途中に一致する候補を表示します。</div>
+</div>
+<p>ひらがな・カタカナ・英数字の全角／半角などは、ある程度同じものとして扱います。</p>
+<p>検索結果には問題文と答えが表示されます。「先頭一致」「部分一致」の表示で、どのように一致したかを確認できます。</p>
+<div class="notice">検索結果が多い場合は、もう少し長い単語を入力すると候補を絞り込めます。</div>
+
+<h2>2. 答えを確認・コピー</h2>
+<div class="feature">
+<div class="feature-title">答え</div>
+<div class="feature-description">問題文の下に答えを大きく表示します。</div>
+</div>
+<div class="feature">
+<div class="feature-title">答えをコピー</div>
+<div class="feature-description">表示されている答えだけをクリップボードへコピーします。コピーした内容は、ゲーム内のチャット欄などへ貼り付けて使用できます。</div>
+</div>
+
+<h2>3. ランダム出題</h2>
+<p>「ランダム出題」を押すと、登録されている問題から1問をランダムに表示します。</p>
+<div class="feature">
+<div class="feature-title">答えを見る</div>
+<div class="feature-description">表示中の問題の答えを表示します。</div>
+</div>
+<div class="feature">
+<div class="feature-title">次の問題</div>
+<div class="feature-description">別の問題をランダムに表示します。</div>
+</div>
+<p>検索結果を見ずに問題を確認したいときなどに使用できます。</p>
+
+<h2>4. 問題データ管理</h2>
+<p>「問題データ管理」から、自分の問題を追加・編集・削除できます。</p>
+<div class="feature">
+<div class="feature-title">問題を追加</div>
+<div class="feature-description">問題文と答えを入力します。「読み」は任意項目で、問題文の読み方から検索したい場合に登録します。</div>
+</div>
+<div class="feature">
+<div class="feature-title">編集・削除</div>
+<div class="feature-description">個人で追加した問題の内容を変更したり、不要になった問題を削除したりできます。初期データはこの画面から編集・削除できません。</div>
+</div>
+<div class="notice">同じ問題文がすでに登録されている場合、追加できません。表記の違いによる重複を避けるため、全角・半角や一部の記号などを正規化して判定します。</div>
+
+<h2>5. JSONで保存・共有</h2>
+<div class="feature">
+<div class="feature-title">JSONを書き出す</div>
+<div class="feature-description">自分で追加した問題をJSONファイルとして保存します。初期データは書き出し対象に含まれません。</div>
+</div>
+<div class="feature">
+<div class="feature-title">JSONを読み込む</div>
+<div class="feature-description">JSONファイルに保存された問題を取り込みます。すでに同じ問題文が登録されている場合は重複としてスキップします。読み込んだ問題は、この端末の個人追加データとして保存されます。</div>
+</div>
+<p>JSONファイルを他の利用者と受け渡すことで、個人追加分の問題を共有できます。</p>
+<div class="notice">JSONファイルの内容が正しい形式でない場合は読み込めません。取り込み前に、問題文と答えの内容を確認してください。</div>
+
+<h2>保存について</h2>
+<p>初期データはツールに含まれるJSONファイルから読み込みます。自分で追加・編集した問題は、使用している端末のブラウザ内（localStorage）に保存されます。</p>
+<p>入力した検索語や問題データを、このツールからサーバーへ送信して収集・保存する仕組みはありません。</p>
+<div class="notice">
+ブラウザの履歴やWebサイトデータを削除した場合、ブラウザ側の設定などによって保存データが消去された場合は、個人で追加した問題が失われる可能性があります。必要に応じてJSONを書き出して保管してください。
+</div>
+
+<h2>注意事項</h2>
+<div class="notice">
+<p>このツールは個人で作成した補助ツールです。</p>
+<p>初期データには誤りや不足が含まれる可能性があります。回答を使用する際は、必要に応じて内容を確認してください。</p>
+<p>ゲーム側の仕様変更などによって、検索や表示が正常に動作しなくなる可能性があります。</p>
+<p>また、このツールを使用したことによって発生した問題・損害について、開発者は責任を負いかねます。あらかじめご了承ください。</p>
+<p>ゲーム内で使用する際は、ゲーム側のルールや利用規約などもご確認ください。</p>
+</div>
+
+<h2>仕様について</h2>
+<p>本ページに記載している内容は、<strong>2026年10月現在</strong>の仕様をもとにしています。</p>
+<p>今後のアップデートによって、画面構成や機能などが変更される場合があります。</p>
+
+<h2>最後に</h2>
+<p>ここまで読んでいただきありがとうございます。</p>
+<p>イベント問題の確認や、ちょっとした練習のお供として使ってもらえたらうれしいです。</p>
+<p>それでは、楽しいパズサバライフを<br>ヽ(=´▽`=)ﾉ</p>
+
+<div class="back-area"><a href="index.html" class="back-button">← 検索画面へ戻る</a></div>
+<footer>Produced by しろねこ24</footer>
+</div>
+</body>
+</html>

@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
+<meta name="theme-color" content="#2b2b2b">
+<title>フォックスの挑戦・クイズ検索</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="page">
+<header class="top">
+  <div>
+    <h1>🦊 フォックスの挑戦</h1>
+    <p>問題の一部を入力して、答えをすばやく検索</p>
+  </div>
+  <a class="help-button" href="help.html">使い方</a>
+</header>
+
+<main>
+<section class="searchbox">
+  <label for="query">問題文を入力（1文字から検索）</label>
+  <div class="inputrow">
+    <input id="query" type="search" placeholder="問題文の先頭や覚えている単語を入力" autocomplete="off" enterkeyhint="search">
+    <button id="clearBtn" class="sub">消去</button>
+  </div>
+  <div class="meta"><!--<span id="count">全0問</span>--><span>先頭一致を優先して表示</span></div>
+</section>
+
+<section id="results" aria-live="polite">
+  <div class="empty">問題文の最初の文字や、覚えている単語を入力してください。</div>
+</section>
+
+<nav class="actions">
+  <button id="randomBtn">🎲 ランダム出題</button>
+  <button id="manageBtn" class="sub">問題データ管理</button>
+</nav>
+
+<section id="quiz" class="panel hidden">
+  <div class="panelhead"><strong>ランダム出題</strong><button id="closeQuiz" class="sub">閉じる</button></div>
+  <p id="quizQuestion" class="quizq"></p>
+  <p id="quizAnswer" class="answer hidden"></p>
+  <div class="row">
+    <button id="showAnswer">答えを見る</button>
+    <button id="nextQuestion" class="sub">次の問題</button>
+  </div>
+</section>
+
+<section id="manager" class="panel hidden">
+  <div class="panelhead"><strong>問題データ管理</strong><button id="closeManager" class="sub">閉じる</button></div>
+  <p class="note">追加・編集した内容は、この端末のブラウザ内に保存されます。</p>
+  <button id="addBtn">＋ 問題を追加</button>
+  <div class="row importrow">
+    <button id="exportBtn" class="sub">JSONを書き出す</button>
+    <button id="importBtn" class="sub">JSONを読み込む</button>
+    <input id="fileInput" type="file" accept=".json,application/json" hidden>
+  </div>
+  <div id="manageList"></div>
+</section>
+</main>
+<footer>自分で追加したデータは端末内に保存されますヽ(=´▽`=)ﾉ<br>Produced by しろねこ24</footer>
+</div>
+
+<dialog id="editDialog">
+  <form method="dialog" id="editForm">
+    <h2 id="dialogTitle">問題を追加</h2>
+    <label for="editQuestion">問題文</label>
+    <textarea id="editQuestion" required rows="4"></textarea>
+    <label for="editAnswer">答え</label>
+    <input id="editAnswer" required>
+    <label for="editReading">読み（任意・ひらがな）</label>
+    <input id="editReading" placeholder="検索用の読み方">
+    <div class="row dialog-actions">
+      <button type="button" id="cancelEdit" class="sub">キャンセル</button>
+      <button type="submit" id="saveEdit">保存</button>
+    </div>
+  </form>
+</dialog>
+<script src="script.js"></script>
+</body>
+</html>
