@@ -166,6 +166,23 @@ function randomQuestion() {
   $("quizAnswer").classList.add("hidden");
   $("quiz").classList.remove("hidden");
 }
+
+// 頭文字ボタン（ひらがな46文字＋アルファベット26文字）
+const initials = [
+  ..."あいうえおかきくけこさしすせそたちつてとなにぬねのはひふへほまみむめもやゆよらりるれろわをん",
+  ..."ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+];
+const initialButtons = $("initialButtons");
+initialButtons.innerHTML = initials.map(ch =>
+  `<button type="button" class="sub" data-initial="${ch}">${ch}</button>`
+).join("");
+initialButtons.querySelectorAll("[data-initial]").forEach(button => {
+  button.addEventListener("click", () => {
+    $("query").value = button.dataset.initial;
+    render();
+  });
+});
+
 $("query").addEventListener("input", render);
 $("clearBtn").onclick = () => {$("query").value = ""; render(); $("query").focus();};
 $("randomBtn").onclick = randomQuestion;

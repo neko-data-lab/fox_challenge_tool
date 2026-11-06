@@ -46,3 +46,28 @@ dialog label{margin:12px 0 5px}
 .dialog-actions{margin-top:16px}
 .dialog-actions button{flex:1}
 @media(min-width:600px){body{padding-top:20px}.answer{font-size:27px}}
+
+/* 頭文字ボタン：横一列でスワイプ操作 */
+.initial-buttons{
+  display:flex;
+  flex-wrap:nowrap;
+  gap:5px;
+  overflow-x:auto;
+  overflow-y:hidden;
+  -webkit-overflow-scrolling:touch;
+  scrollbar-width:thin;
+  padding:8px 0 5px;
+  margin:2px 0 3px;
+}
+.initial-buttons button{
+  flex:0 0 auto;
+  min-width:34px;
+  padding:7px 9px;
+  font-size:13px;
+  line-height:1.2;
+  border-radius:6px;
+}
+.initial-buttons button:focus-visible{
+  outline:2px solid #ffd45a;
+  outline-offset:2px;
+}
